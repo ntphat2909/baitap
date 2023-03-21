@@ -1,0 +1,60 @@
+.back {
+    width: 50%;
+    height: 10vh;
+    background-image:linear-gradient(40deg, #333, #555, #789)
+}
+.box {
+    width: 500px;
+    height: 240px   ;
+    background-color: rgb(2, 1, 44);    
+    position:absolute ;
+    /* background-position: center; */
+    /* margin-top: 0%   ; */
+    margin-left: 38%;
+    margin: center;
+   
+  
+}
+.dangnhap {
+    font-size: 20px ;
+    color: red;
+    text-align: center;
+}
+.ip {
+    margin-left: 150px;
+    margin-top: 60px;
+}
+    .ip1 {
+    margin-left: 150px;
+    margin-top: 20px;
+        
+    }
+.test {
+    width: 250px;
+    height: 20px;
+    border: 2px solid rgb(2, 1, 44);
+}
+button {
+    margin-top: 10%;
+    font-size: 20px;
+    margin-left: 2%;
+	position: absolute
+}
+.text1 {
+    font-size: 20px;
+    color:aqua;
+    padding-left: 5%;
+    position: absolute;
+    text-align: left;
+    margin-left: 1%;
+    margin-top: -18.3%;
+}
+.text2 {
+    font-size: 20px;
+    color:aqua;
+    padding-left: 5%;
+    position: absolute;
+    text-align: left;
+    margin-left: 1%;
+    margin-top: -9.6%;
+}
